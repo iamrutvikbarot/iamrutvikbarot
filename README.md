@@ -9,8 +9,8 @@
 
 ## 📌 My Portfolio Projects  
 - 🚀 [Automated Email Reports](https://github.com/iamrutvikbarot/automated-email-reports)  
-- 📊 [Google Sheets Data Processing](#)  
-- ✉️ [Bulk Email Sender](#)  
+- 📊 [Google Sheets Data Processing](https://github.com/iamrutvikbarot/google-sheets-data-processing)  
+- ✉️ [Bulk Email Sender](https://github.com/iamrutvikbarot/bulk-email-sender)  
 - 📋 [Google Sheets & Forms Integration](#)  
 - 📅 [Google Calendar Auto-Scheduler](#)  
 - 📂 [Google Drive File Organizer](#)  
