@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Rutvik Barot 👋  
+🚀 Google Apps Script Developer | Automating Workflows & API Integrations  
 
-<!--
-**iamrutvikbarot/iamrutvikbarot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 Technologies & Tools  
+- Google Apps Script  
+- JavaScript  
+- Google Sheets, Docs, Forms, Drive API  
+- Firebase  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 My Portfolio Projects  
+- 🚀 [Automated Email Reports](#)  
+- 📊 [Google Sheets Data Processing](#)  
+- ✉️ [Bulk Email Sender](#)  
+- 📋 [Google Sheets & Forms Integration](#)  
+- 📅 [Google Calendar Auto-Scheduler](#)  
+- 📂 [Google Drive File Organizer](#)  
+- 🛠️ [Custom Google Workspace Add-on](#)  
+- 🌐 [Third-Party API Integration](#)  
