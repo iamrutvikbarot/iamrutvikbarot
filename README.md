@@ -8,7 +8,7 @@
 - Firebase  
 
 ## 📌 My Portfolio Projects  
-- 🚀 [Automated Email Reports](#)  
+- 🚀 [Automated Email Reports](https://github.com/iamrutvikbarot/automated-email-reports)  
 - 📊 [Google Sheets Data Processing](#)  
 - ✉️ [Bulk Email Sender](#)  
 - 📋 [Google Sheets & Forms Integration](#)  
